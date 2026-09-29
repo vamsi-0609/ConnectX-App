@@ -376,7 +376,7 @@ ConnectX uses a layered architecture that keeps security, persistence, synchroni
 
 <br><br>
 
-**Your Name** • *Creator & Developer of ConnectX*
+**Vamsi krishna** • *Creator & Developer of ConnectX*
 
 <br>
 
