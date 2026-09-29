@@ -41,7 +41,7 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/ConnectX/releases/latest/download/ConnectX.apk">
+<a href="https://github.com/vamsi-0609/ConnectX-App/releases/download/V0.1.0/ConnectX-App-release.apk">
   <img src="https://img.shields.io/badge/⬇_DOWNLOAD_APK-7C4DFF?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="52">
 </a>
 
