@@ -55,7 +55,7 @@
 
 | 📱 Requires | 🏷️ Version | 📥 Type |
 |:---:|:---:|:---:|
-| Android 8.0+ | ![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/ConnectX?include_prereleases&label=latest) | Development APK |
+| Android 8.0+ | 2.0 | Development APK |
 
 <sub>🚧 ConnectX is under active development. Try it, use it, and check back often: new updates are released frequently.</sub>
 
